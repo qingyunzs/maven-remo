@@ -1,1 +1,1 @@
-# think-in-java
+# Thinking in Java
